@@ -20,11 +20,6 @@
       <change beforePath="E:/HelloSpringBoot/src/main/java/net/codejava/webServiceController.java" beforeDir="false" afterPath="E:/HelloSpringBoot/src/main/java/net/codejava/webServiceController.java" afterDir="false" />
       <change beforePath="E:/HelloSpringBoot/src/main/resources/templates/hello.html" beforeDir="false" afterPath="E:/HelloSpringBoot/src/main/resources/templates/hello.html" afterDir="false" />
       <change beforePath="E:/HelloSpringBoot/src/main/resources/templates/index.html" beforeDir="false" afterPath="E:/HelloSpringBoot/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex01/DB_Connection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex01/DisplayOutput.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex01/vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex02/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example_encap.java" beforeDir="false" />
       <change beforePath="E:/MyWebApp/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="E:/MyWebApp/.idea/libraries/javax_servlet_api_4_0_1.xml" beforeDir="false" />
       <change beforePath="E:/MyWebApp/.idea/vcs.xml" beforeDir="false" />
@@ -129,12 +124,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="14" />
+          <entry key="java" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="14" />
+          <entry key="JAVA" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -166,6 +161,15 @@
                 <element signature="e#3727#3728#0" expanded="true" />
                 <element signature="e#3773#3774#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/encapsulation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -243,7 +247,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1622192575165" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1622195530358" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -353,17 +357,18 @@
       <updated>1622123168019</updated>
       <workItem from="1622123171141" duration="6752000" />
       <workItem from="1622181276026" duration="8386000" />
-      <workItem from="1622192887129" duration="2253000" />
+      <workItem from="1622192887129" duration="2586000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17391000" />
+    <option name="totallyTimeSpent" value="17724000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19595142" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19595142" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -371,7 +376,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.3291815" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3291815" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3291815" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -422,13 +427,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ex02/Student.java" />
-    <entry file="file://$PROJECT_DIR$/src/encapsulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/example_encap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -446,6 +444,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/encapsulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>

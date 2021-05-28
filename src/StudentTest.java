@@ -167,7 +167,7 @@ class Student {
         s.setCity(sc.nextLine());
         System.out.print("Student telephone number (+855): ");
         s.setTelephone_number(sc.nextLine());
-        System.out.print("Student group name(I4 or T1): ");
+        System.out.print("Student group name(I4AB or T1A): ");
         s.setGroupName(sc.nextLine());
         return s;
     }
