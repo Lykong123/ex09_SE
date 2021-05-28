@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c8df1cb-fe7e-4550-bae8-5f8d99bef802" name="Default Changelist" comment="">
+      <change beforePath="E:/DatabaseConnection/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="E:/DatabaseConnection/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="E:/DatabaseConnection/lib/mysql-connector-java-8.0.23.zip" beforeDir="false" />
+      <change beforePath="E:/DatabaseConnection/src/ex01/Circle.java" beforeDir="false" />
+      <change beforePath="E:/DatabaseConnection/src/ex01/Rectangle.java" beforeDir="false" />
+      <change beforePath="E:/DatabaseConnection/src/ex01/Shape.java" beforeDir="false" />
+      <change beforePath="E:/DatabaseConnection/src/ex01/TestShape.java" beforeDir="false" />
+      <change beforePath="E:/DatabaseConnection/src/ex01/Triangle.java" beforeDir="false" />
+      <change beforePath="E:/FinalExam/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="E:/FinalExam/src/ContactList.java" beforeDir="false" />
+      <change beforePath="E:/FinalExam/src/PlantingShop.java" beforeDir="false" />
+      <change beforePath="E:/HelloSpringBoot/src/main/java/net/codejava/student/Student.java" beforeDir="false" afterPath="E:/HelloSpringBoot/src/main/java/net/codejava/student/Student.java" afterDir="false" />
+      <change beforePath="E:/HelloSpringBoot/src/main/java/net/codejava/student/StudentController.java" beforeDir="false" afterPath="E:/HelloSpringBoot/src/main/java/net/codejava/student/StudentController.java" afterDir="false" />
+      <change beforePath="E:/HelloSpringBoot/src/main/java/net/codejava/student/StudentService.java" beforeDir="false" afterPath="E:/HelloSpringBoot/src/main/java/net/codejava/student/StudentService.java" afterDir="false" />
+      <change beforePath="E:/HelloSpringBoot/src/main/java/net/codejava/webController.java" beforeDir="false" afterPath="E:/HelloSpringBoot/src/main/java/net/codejava/webController.java" afterDir="false" />
+      <change beforePath="E:/HelloSpringBoot/src/main/java/net/codejava/webServiceController.java" beforeDir="false" afterPath="E:/HelloSpringBoot/src/main/java/net/codejava/webServiceController.java" afterDir="false" />
+      <change beforePath="E:/HelloSpringBoot/src/main/resources/templates/hello.html" beforeDir="false" afterPath="E:/HelloSpringBoot/src/main/resources/templates/hello.html" afterDir="false" />
+      <change beforePath="E:/HelloSpringBoot/src/main/resources/templates/index.html" beforeDir="false" afterPath="E:/HelloSpringBoot/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/encapsulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex01/DB_Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex01/DB_Connection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex01/DisplayOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex01/DisplayOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex01/vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex01/vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex02/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex02/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example_encap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example_encap.java" afterDir="false" />
+      <change beforePath="E:/MyWebApp/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="E:/MyWebApp/.idea/libraries/javax_servlet_api_4_0_1.xml" beforeDir="false" />
+      <change beforePath="E:/MyWebApp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="E:/MyWebApp/pom.xml" beforeDir="false" />
+      <change beforePath="E:/MyWebApp/src/First.java" beforeDir="false" />
+      <change beforePath="E:/MyWebApp/src/main/java/First.java" beforeDir="false" />
+      <change beforePath="E:/MyWebApp/src/main/java/ex02.java" beforeDir="false" />
+      <change beforePath="E:/MyWebApp/src/main/java/ex03.java" beforeDir="false" />
+      <change beforePath="E:/StudentManagement/.idea/libraries/mysql_connector_java_8_0_23.xml" beforeDir="false" />
+      <change beforePath="E:/StudentManagement/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="E:/StudentManagement/src/Database.java" beforeDir="false" />
+      <change beforePath="E:/StudentManagement/src/Student.java" beforeDir="false" />
+      <change beforePath="E:/StudentManagement/src/StudentManagement.java" beforeDir="false" />
+      <change beforePath="E:/TP06_UnLykong_e20170998/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="E:/TP08_UnLykong_e20170998/src/ex01.java" beforeDir="false" afterPath="E:/TP08_UnLykong_e20170998/src/ex01.java" afterDir="false" />
+      <change beforePath="E:/TP08_UnLykong_e20170998/src/ex02.java" beforeDir="false" afterPath="E:/TP08_UnLykong_e20170998/src/ex02.java" afterDir="false" />
+      <change beforePath="E:/TP08_UnLykong_e20170998/src/ex03.java" beforeDir="false" afterPath="E:/TP08_UnLykong_e20170998/src/ex03.java" afterDir="false" />
+      <change beforePath="E:/TP08_UnLykong_e20170998/src/ex04.java" beforeDir="false" afterPath="E:/TP08_UnLykong_e20170998/src/ex04.java" afterDir="false" />
+      <change beforePath="E:/TP08_UnLykong_e20170998/src/ex05.java" beforeDir="false" afterPath="E:/TP08_UnLykong_e20170998/src/ex05.java" afterDir="false" />
+      <change beforePath="E:/TP08_UnLykong_e20170998/src/ex06.java" beforeDir="false" afterPath="E:/TP08_UnLykong_e20170998/src/ex06.java" afterDir="false" />
+      <change beforePath="E:/TP08_UnLykong_e20170998/src/ex07.java" beforeDir="false" afterPath="E:/TP08_UnLykong_e20170998/src/ex07.java" afterDir="false" />
+      <change beforePath="E:/TP11_UnLykong_e20170998/src/ex01/DB_Connection.java" beforeDir="false" afterPath="E:/TP11_UnLykong_e20170998/src/ex01/DB_Connection.java" afterDir="false" />
+      <change beforePath="E:/TP11_UnLykong_e20170998/src/ex01/Vehical.java" beforeDir="false" afterPath="E:/TP11_UnLykong_e20170998/src/ex01/Vehical.java" afterDir="false" />
+      <change beforePath="E:/TP11_UnLykong_e20170998/src/ex01/VehicalTest.java" beforeDir="false" afterPath="E:/TP11_UnLykong_e20170998/src/ex01/VehicalTest.java" afterDir="false" />
+      <change beforePath="E:/TP11_UnLykong_e20170998/src/ex02/VehicleType.java" beforeDir="false" afterPath="E:/TP11_UnLykong_e20170998/src/ex02/VehicleType.java" afterDir="false" />
+      <change beforePath="E:/TP11_UnLykong_e20170998/src/ex02/VehicleTypeTest.java" beforeDir="false" afterPath="E:/TP11_UnLykong_e20170998/src/ex02/VehicleTypeTest.java" afterDir="false" />
+      <change beforePath="E:/TP11_UnLykong_e20170998/src/ex03/VehicleStore.java" beforeDir="false" afterPath="E:/TP11_UnLykong_e20170998/src/ex03/VehicleStore.java" afterDir="false" />
+      <change beforePath="E:/TP11_UnLykong_e20170998/src/ex03/VehicleStoreTest.java" beforeDir="false" afterPath="E:/TP11_UnLykong_e20170998/src/ex03/VehicleStoreTest.java" afterDir="false" />
+      <change beforePath="E:/TP12/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="E:/TP12/src/Shape.java" beforeDir="false" />
+      <change beforePath="E:/TP12_UnLykong_e20170998/src/KeyboardListening.java" beforeDir="false" afterPath="E:/TP12_UnLykong_e20170998/src/KeyboardListening.java" afterDir="false" />
+      <change beforePath="E:/TP12_UnLykong_e20170998/src/ex01/StopHit.java" beforeDir="false" afterPath="E:/TP12_UnLykong_e20170998/src/ex01/StopHit.java" afterDir="false" />
+      <change beforePath="E:/TP12_UnLykong_e20170998/src/ex02/StopHit2.java" beforeDir="false" afterPath="E:/TP12_UnLykong_e20170998/src/ex02/StopHit2.java" afterDir="false" />
+      <change beforePath="E:/TP12_UnLykong_e20170998/src/ex03/ThreadGenerator.java" beforeDir="false" afterPath="E:/TP12_UnLykong_e20170998/src/ex03/ThreadGenerator.java" afterDir="false" />
+      <change beforePath="E:/TP12_UnLykong_e20170998/src/ex04/StartEndThread.java" beforeDir="false" afterPath="E:/TP12_UnLykong_e20170998/src/ex04/StartEndThread.java" afterDir="false" />
+      <change beforePath="E:/TP12_UnLykong_e20170998/src/ex05/BrainTest.java" beforeDir="false" afterPath="E:/TP12_UnLykong_e20170998/src/ex05/BrainTest.java" afterDir="false" />
+      <change beforePath="E:/TP13/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="E:/TP13_UnLykong_e20170998/.idea/misc.xml" beforeDir="false" afterPath="E:/TP13_UnLykong_e20170998/.idea/misc.xml" afterDir="false" />
+      <change beforePath="E:/TP13_UnLykong_e20170998/.idea/workspace.xml" beforeDir="false" afterPath="E:/TP13_UnLykong_e20170998/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="E:/TP13_UnLykong_e20170998/src/login.java" beforeDir="false" />
+      <change beforePath="E:/TP13_UnLykong_e20170998/src/main/java/ex01.java" beforeDir="false" afterPath="E:/TP13_UnLykong_e20170998/src/main/java/ex01.java" afterDir="false" />
+      <change beforePath="E:/TP13_UnLykong_e20170998/web/login.jsp" beforeDir="false" />
+      <change beforePath="E:/TP13_UnLykong_e20170998/web/task1.jsp" beforeDir="false" afterPath="E:/TP13_UnLykong_e20170998/web/task1.jsp" afterDir="false" />
+      <change beforePath="E:/TP13_UnLykong_e20170998/web/task2.jsp" beforeDir="false" afterPath="E:/TP13_UnLykong_e20170998/web/task2.jsp" afterDir="false" />
+      <change beforePath="E:/TP13_UnLykong_e20170998/web/task3.jsp" beforeDir="false" afterPath="E:/TP13_UnLykong_e20170998/web/task3.jsp" afterDir="false" />
+      <change beforePath="E:/TP13_UnLykong_e20170998/web/test.jsp" beforeDir="false" afterPath="E:/TP13_UnLykong_e20170998/web/test.jsp" afterDir="false" />
+      <change beforePath="E:/Thread/src/Ex01.java" beforeDir="false" afterPath="E:/Thread/src/Ex01.java" afterDir="false" />
+      <change beforePath="E:/Thread/src/Ex02.java" beforeDir="false" afterPath="E:/Thread/src/Ex02.java" afterDir="false" />
+      <change beforePath="E:/Thread/src/SyncApp.java" beforeDir="false" afterPath="E:/Thread/src/SyncApp.java" afterDir="false" />
+      <change beforePath="E:/apache-tomcat-9.0.35-windows-x64/apache-tomcat-9.0.35/webapps/TP13/WEB_INF/web.xml" beforeDir="false" afterPath="E:/apache-tomcat-9.0.35-windows-x64/apache-tomcat-9.0.35/webapps/TP13/WEB_INF/web.xml" afterDir="false" />
+      <change beforePath="E:/apache-tomcat-9.0.35-windows-x64/apache-tomcat-9.0.35/webapps/TP13/src/task1.java" beforeDir="false" afterPath="E:/apache-tomcat-9.0.35-windows-x64/apache-tomcat-9.0.35/webapps/TP13/src/task1.java" afterDir="false" />
+      <change beforePath="E:/project1/test.py" beforeDir="false" />
+      <change beforePath="E:/serlet/.idea/artifacts/my_server.xml" beforeDir="false" />
+      <change beforePath="E:/serlet/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="E:/serlet/src/test/ex01.java" beforeDir="false" />
+      <change beforePath="E:/spring_app/src/main/java/com/kong/app/boardGame.java" beforeDir="false" />
+      <change beforePath="E:/spring_app/src/main/java/com/kong/app/thing.java" beforeDir="false" />
+      <change beforePath="E:/test/test.py" beforeDir="false" />
+      <change beforePath="E:/testing/src/Ex01/Group.java" beforeDir="false" afterPath="E:/testing/src/Ex01/Group.java" afterDir="false" />
+      <change beforePath="E:/testing/src/Ex01/Student.java" beforeDir="false" afterPath="E:/testing/src/Ex01/Student.java" afterDir="false" />
+      <change beforePath="E:/testing/src/Ex01/StudentTest.java" beforeDir="false" afterPath="E:/testing/src/Ex01/StudentTest.java" afterDir="false" />
+      <change beforePath="E:/testing/src/Ex02/CustomerClass.java" beforeDir="false" afterPath="E:/testing/src/Ex02/CustomerClass.java" afterDir="false" />
+      <change beforePath="E:/testing/src/Ex02/DB_Connection.java" beforeDir="false" afterPath="E:/testing/src/Ex02/DB_Connection.java" afterDir="false" />
+      <change beforePath="E:/testing/src/Ex03/PopularShop.java" beforeDir="false" afterPath="E:/testing/src/Ex03/PopularShop.java" afterDir="false" />
+      <change beforePath="E:/testing/src/Ex03/PopularShopTest.java" beforeDir="false" afterPath="E:/testing/src/Ex03/PopularShopTest.java" afterDir="false" />
+      <change beforePath="E:/testing/src/Thread/ex01.java" beforeDir="false" afterPath="E:/testing/src/Thread/ex01.java" afterDir="false" />
+      <change beforePath="E:/testing/src/Thread/ex02.java" beforeDir="false" afterPath="E:/testing/src/Thread/ex02.java" afterDir="false" />
+      <change beforePath="E:/testing/src/Thread/ex03.java" beforeDir="false" afterPath="E:/testing/src/Thread/ex03.java" afterDir="false" />
+      <change beforePath="E:/testing/src/Thread/ex04.java" beforeDir="false" afterPath="E:/testing/src/Thread/ex04.java" afterDir="false" />
+      <change beforePath="E:/testing/src/ex2.java" beforeDir="false" />
+      <change beforePath="E:/testing/src/ex3.java" beforeDir="false" />
+      <change beforePath="E:/testing/src/ex4.java" beforeDir="false" />
+      <change beforePath="E:/testing/src/ex5.java" beforeDir="false" />
+      <change beforePath="E:/tomcat/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="E:/web/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="E:/web_app_test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="E:/web_app_test1/.idea/libraries/jakarta_servlet_jsp_jstl_1_2_6.xml" beforeDir="false" />
+      <change beforePath="E:/web_app_test1/.idea/libraries/jakarta_servlet_jsp_jstl_api_1_2_7.xml" beforeDir="false" />
+      <change beforePath="E:/web_app_test1/.idea/libraries/jstl_1_2.xml" beforeDir="false" />
+      <change beforePath="E:/web_app_test1/.idea/libraries/sqlite_jdbc_3_27_2_1.xml" beforeDir="false" />
+      <change beforePath="E:/web_app_test1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="E:/web_app_test1/pom.xml" beforeDir="false" />
+      <change beforePath="E:/web_app_test1/web/feedback.jsp" beforeDir="false" />
+      <change beforePath="E:/web_app_test1/web/thankyou.jsp" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1828222879">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="6485" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="6485" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ex01/vehicle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ex02/StudentTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="86" column="50" selection-start-line="86" selection-start-column="50" selection-end-line="86" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#setCity#0;class#Student#0" />
+                <element signature="method#setDateOfBirth#0;class#Student#0" />
+                <element signature="method#toString#0;class#Student#0" />
+                <element signature="e#3539#3540#0" expanded="true" />
+                <element signature="e#3589#3590#0" expanded="true" />
+                <element signature="e#3727#3728#0" expanded="true" />
+                <element signature="e#3773#3774#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="E:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ex01/DB_Connection.java" />
+        <option value="$PROJECT_DIR$/src/ex01/VehicleClass.java" />
+        <option value="$PROJECT_DIR$/src/ex01/VehicleTest.java" />
+        <option value="$PROJECT_DIR$/src/ex2.java" />
+        <option value="$PROJECT_DIR$/src/ex02/vehicleType.java" />
+        <option value="$PROJECT_DIR$/src/ex02/VehicleTest.java" />
+        <option value="$PROJECT_DIR$/src/AbstractClass.java" />
+        <option value="$PROJECT_DIR$/src/ex01/vehicle.java" />
+        <option value="$PROJECT_DIR$/src/ex01/DisplayOutput.java" />
+        <option value="$PROJECT_DIR$/src/ex02/Student.java" />
+        <option value="$PROJECT_DIR$/src/encapsulation.java" />
+        <option value="$PROJECT_DIR$/src/example_encap.java" />
+        <option value="$PROJECT_DIR$/src/ex02/StudentTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1039" />
+    <option name="y" value="37" />
+    <option name="width" value="939" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Midterm_2021" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Midterm_2021" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Midterm_2021" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Midterm_2021" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Midterm_2021" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Midterm_2021" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ex01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Midterm_2021" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Midterm_2021" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ex02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Midterm_2021" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Midterm_2021" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ex02" type="462c0819:PsiDirectoryNode" />
+              <item name="StudentTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1622192575165" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.StudentTest">
+    <configuration name="DisplayOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex01.DisplayOutput" />
+      <module name="Midterm_2021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Honda4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Honda4" />
+      <module name="Midterm_2021" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex02.StudentTest" />
+      <module name="Midterm_2021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex02.VehicleTest" />
+      <module name="Midterm_2021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vehicle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex01.vehicle" />
+      <module name="Midterm_2021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.VehicleTest (1)" />
+      <item itemvalue="Application.Honda4" />
+      <item itemvalue="Application.vehicle" />
+      <item itemvalue="Application.DisplayOutput" />
+      <item itemvalue="Application.StudentTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StudentTest" />
+        <item itemvalue="Application.DisplayOutput" />
+        <item itemvalue="Application.vehicle" />
+        <item itemvalue="Application.Honda4" />
+        <item itemvalue="Application.VehicleTest (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c8df1cb-fe7e-4550-bae8-5f8d99bef802" name="Default Changelist" comment="" />
+      <created>1622123168019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622123168019</updated>
+      <workItem from="1622123171141" duration="6752000" />
+      <workItem from="1622181276026" duration="8386000" />
+      <workItem from="1622192887129" duration="1955000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17093000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3291815" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3291815" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3291815" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ex01.java" />
+    <entry file="file://$PROJECT_DIR$/src/ex01/DB_Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="21" column="57" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex2.java" />
+    <entry file="file://$PROJECT_DIR$/src/ex01/VehicleTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/ex01/VehicleClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/ex02/vehicleType.java" />
+    <entry file="file://$PROJECT_DIR$/src/ex02/VehicleTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/AbstractClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/ex01/DisplayOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex02/Student.java" />
+    <entry file="file://$PROJECT_DIR$/src/encapsulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example_encap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#79#80#0" expanded="true" />
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex01/vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex02/StudentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="86" column="50" selection-start-line="86" selection-start-column="50" selection-end-line="86" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#setCity#0;class#Student#0" />
+            <element signature="method#setDateOfBirth#0;class#Student#0" />
+            <element signature="method#toString#0;class#Student#0" />
+            <element signature="e#3539#3540#0" expanded="true" />
+            <element signature="e#3589#3590#0" expanded="true" />
+            <element signature="e#3727#3728#0" expanded="true" />
+            <element signature="e#3773#3774#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>14</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Midterm_2021</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>14</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mysql-connector-java-8.0.23</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30252102" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
