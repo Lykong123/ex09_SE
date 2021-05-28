@@ -1,5 +1,3 @@
-package ex02;
-
 import java.text.SimpleDateFormat;
 import java.util.*;
 import java.util.regex.Matcher;
